@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<polygon style="fill:#7E8488;" points="282.392,356.289 81.814,356.289 81.814,187.381 "/>
+<polygon style="fill:#5E6366;" points="282.392,187.381 282.392,356.289 81.814,187.381 "/>
+<g>
+	<path style="fill:#E7ECED;" d="M282.392,356.289V187.381H81.814v168.907H282.392z M467.134,435.464H44.866V150.433H256h211.134
+		V435.464z"/>
+	<polygon style="fill:#E7ECED;" points="504.082,113.485 504.082,472.412 256,472.412 256,435.464 467.134,435.464 467.134,150.433 
+		256,150.433 256,113.485 	"/>
+</g>
+<rect x="256" y="39.588" style="fill:#546A79;" width="248.082" height="73.897"/>
+<rect x="7.918" y="39.588" style="fill:#455865;" width="248.082" height="73.897"/>
+<polygon style="fill:#CCD1D2;" points="44.866,435.464 256,435.464 256,472.412 7.918,472.412 7.918,113.485 256,113.485 
+	256,150.433 44.866,150.433 "/>
+<g>
+	<rect x="39.588" y="68.619" style="fill:#FFFFFF;" width="21.113" height="15.835"/>
+	<rect x="71.258" y="68.619" style="fill:#FFFFFF;" width="21.113" height="15.835"/>
+	<rect x="451.299" y="68.619" style="fill:#FFFFFF;" width="21.113" height="15.835"/>
+</g>
+<path d="M0,31.67v448.66h512V31.67H0z M496.165,47.505v58.062H15.835V47.505H496.165z M15.835,464.495V121.402h480.33v343.093
+	H15.835z"/>
+<path d="M36.948,443.381h438.103V142.515H36.948V443.381z M52.784,158.351h406.433v269.196H52.784V158.351z"/>
+<path d="M290.309,179.464H73.897v184.742h216.412V179.464z M274.474,339.27L103.508,195.299h170.966V339.27z M89.732,204.4
+	l170.966,143.971H89.732V204.4z"/>
+<rect x="314.062" y="179.464" width="89.732" height="15.835"/>
+<rect x="314.062" y="221.691" width="126.68" height="15.835"/>
+<rect x="314.062" y="263.918" width="126.68" height="15.835"/>
+<rect x="314.062" y="306.144" width="126.68" height="15.835"/>
+<rect x="351.01" y="348.371" width="89.732" height="15.835"/>
+<rect x="71.258" y="390.598" width="327.258" height="15.835"/>
+<rect x="419.629" y="390.598" width="21.113" height="15.835"/>
+<rect x="419.629" y="179.464" width="21.113" height="15.835"/>
+<g>
+	<rect x="234.887" y="216.412" style="fill:#FFFFFF;" width="21.113" height="15.835"/>
+	<rect x="108.206" y="311.423" style="fill:#FFFFFF;" width="21.113" height="15.835"/>
+</g>
+</svg>
