@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="readme/gallery.svg" alt="Gallery" width="120" height="120"></td>
-    <td><h1>Gallery</h1></td>
+    <td><h1>Deisgner Gallery</h1></td>
     <td><p>The logo is courtesy of <a href="https://www.svgrepo.com/svg/253939/gallery" alt="CCO SVGRepo Image" title="CCO SVGRepo settings gear logo">SVG Repo</a></p></td>
   </tr>
 </table>
@@ -14,6 +14,11 @@
   
 ## Introduction
 This is a simple bit of code and html that adds an image gallery to a website.  You can change the background color to see how images appear with different background colors and click on the image to enlarge (brings it up in a modal).  I really made it to help select avatars and logos for other web apps and sites.  The next and previous buttons fade (opacity) when there is not a page to go forward or back to and it has a scroll-to-top buttton.  Just put the list of images you want in the gallery in the index.dat - you can use paths so you can have images from throughout your website in the gallery in one place. Fairly simple and straight forwward to use.
+
+[![Design Gallery Screenshot](readme/design_gallery_screenshot1.png)
+
+[![Design Gallery Screenshot](readme/design_gallery_screenshot2.png)
+
 
 ## HTML Example
 
