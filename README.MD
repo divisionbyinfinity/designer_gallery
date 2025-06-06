@@ -8,12 +8,12 @@
 
 [DEMO](https://divisionbyinfinity.github.io/gallery/)
 
-![Alt](https://repobeats.axiom.co/api/embed/789204c617539c2e438f780a2fd75e4305046278.svg "Repobeats analytics image")
-
 - [Introduction](#introduction)
 - [HTML Example](#html-example)
 - [CSS](#css)
-  
+
+![Alt](https://repobeats.axiom.co/api/embed/789204c617539c2e438f780a2fd75e4305046278.svg "Repobeats analytics image")
+
 ## Introduction
 This is a simple bit of code and html that adds an image gallery to a website.  You can change the background color to see how images appear with different background colors and click on the image to enlarge (brings it up in a modal).  I really made it to help select avatars and logos for other web apps and sites.  The next and previous buttons fade (opacity) when there is not a page to go forward or back to and it has a scroll-to-top buttton.  Just put the list of images you want in the gallery in the index.dat - you can use paths so you can have images from throughout your website in the gallery in one place. Fairly simple and straight forwward to use.
 
