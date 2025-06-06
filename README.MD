@@ -8,6 +8,7 @@
 
 [DEMO](https://divisionbyinfinity.github.io/gallery/)
 <br>
+
 ![Alt](https://repobeats.axiom.co/api/embed/789204c617539c2e438f780a2fd75e4305046278.svg "Repobeats analytics image")
 
 - [Introduction](#introduction)
